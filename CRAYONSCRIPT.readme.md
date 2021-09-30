@@ -1,3 +1,3 @@
 #Setup
 
-Use ./luaparse.js
+Use ./luaparse.js from mxgraph under <base-dir>/luaparse
